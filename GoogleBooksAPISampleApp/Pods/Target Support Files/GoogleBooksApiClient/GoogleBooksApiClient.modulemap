@@ -1,0 +1,6 @@
+framework module GoogleBooksApiClient {
+  umbrella header "GoogleBooksApiClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
